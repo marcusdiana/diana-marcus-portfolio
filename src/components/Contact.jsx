@@ -2,7 +2,7 @@ import React from 'react'
 import './Contact.css'
 
 const Contact = () => {
-  const email = import.meta.env.VITE_CONTACT_EMAIL || ''
+  const email = import.meta.env.VITE_CONTACT_EMAIL 
 
   return (
     <section id="contact" className="contact">

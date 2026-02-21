@@ -11,7 +11,7 @@ const Hero = () => {
   const metaRef = useRef(null)
   const linksRef = useRef([])
   const backgroundRef = useRef(null)
-  const email = import.meta.env.VITE_CONTACT_EMAIL || ''
+  const email = import.meta.env.VITE_CONTACT_EMAIL
 
   useEffect(() => {
     const ctx = gsap.context(() => {
