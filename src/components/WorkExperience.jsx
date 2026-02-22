@@ -39,13 +39,15 @@ const WorkExperience = () => {
       location: "London, UK",
       period: "Nov 2023 – Present",
       achievements: [
-        "Designed and built scalable and high-performing frontend solutions using JavaScript, CSS, SCSS, and HTML, improving template quality and system efficiency.",
-        "Promoted to head of the templates department within 6 months, responsible for building templates, debugging, and ensuring a 98% same-day bug resolution rate, minimising downtime and maintaining template integrity.",
-        "Expanded role into software engineering, applying best coding practices with Vue.js, demonstrating proactive problem-solving across projects.",
-        "Led the proof of concept for a new data analytics platform using Apache Superset, projected to save £50,000+ annually, by migrating analytics from Sisense and enhancing dashboard personalisation to better align with client needs and expectations.",
-        "Developed custom Superset plugins using React and TypeScript, streamlining dashboard functionality and enhancing data visualisation.",
-        "Contributed to developing and maintaining responsive web components for the company website using Tailwind CSS and Gatsby, ensuring design consistency, accessibility and enhancing user experience.",
-        "Collaborated closely with the operations team to streamline issue resolution, and improved cross-team communication by fostering better alignment between development and operations.",
+        "Designed, built, and shipped client-facing frontend features using React, Vue.js, TypeScript, and JavaScript, improving performance, usability, and overall product experience.",
+        "Led the migration from Sisense to Apache Superset, reducing infrastructure costs by ~£50K annually and automating 80% of previously manual reporting workflows.",
+        "Contributed to Advysr, an AI-powered analytics platform, developing production-ready interfaces in React and TypeScript to surface actionable client insights.",
+        "Developed and maintained the AddIntel and Advysr marketing websites using Gatsby, React, TypeScript, and GSAP, delivering high-performance, accessible, and fully responsive pages.",
+        "Currently building a cross-platform mobile application (iOS & Android) using Expo and React Native to extend the Advysr platform and improve mobile accessibility.",
+        "Promoted within 6 months to head of frontend template architecture for client direct mail campaigns.",
+        "Standardised and optimised template structures, improving rendering consistency and delivery reliability.",
+        "Owned template performance, quality, and release workflows, achieving a 98% same-day bug resolution rate.",
+        "Trained and onboarded new team members, establishing best practices and improving team efficiency.",
       ]
     },
     {
@@ -54,12 +56,12 @@ const WorkExperience = () => {
       location: "London, UK",
       period: "May 2023 – Aug 2023",
       achievements: [
-        "Worked closely with cross-functional teams of designers, developers, and product managers to translate user needs into intuitive, high-quality interfaces.",
-        "Participated in brainstorming sessions and design reviews, contributing fresh ideas, and providing constructive feedback to enhance design iterations.",
-        "Developed wireframes, interactive prototypes, and user flows using industry-standard tools effectively communicating design concepts.",
-        "Conducted usability testing and gathered user feedback to refine designs, improving user satisfaction and aligning solutions with business goals.",
-        "Adhered to brand guidelines and design principles to create cohesive and visually consistent user interfaces that elevate the overall user experience.",
-        "Collaborated seamlessly with cross-functional teams, including developers and product managers, to ensure the successful implementation of design solutions while maintaining design integrity."
+        "Led the UX design for a feature visualising Twitter thread intelligence data within the Adarga Knowledge Platform.",
+        "Translated complex user and business requirements into intuitive, scalable UI solutions.",
+        "Produced wireframes, user flows, and interactive prototypes using Figma.",
+        "Conducted usability testing and incorporated feedback to improve clarity, efficiency, and user satisfaction.",
+        "Collaborated closely with designers, engineers, and product managers in an agile environment.",
+        "Ensured all designs adhered to brand guidelines, accessibility standards, and design best practices.",
       ]
     }
   ]

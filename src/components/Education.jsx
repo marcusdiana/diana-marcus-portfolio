@@ -13,7 +13,7 @@ const Education = () => {
         "Proficiently applied a diverse range of programming languages including Java, JavaScript, NodeJS, HTML, CSS, Express, MongoDB, and Python to software development and full-stack web applications.",
         "Developed a strong understanding in UX and UI design principles, demonstrated by crafting interactive prototypes using Figma and Adobe XD to drive user-centric design thinking.",
         "Acquired a comprehensive understanding of entrepreneurship through coursework covering statistics, business modelling, project management, and creating digital ventures.",
-        "Other skills: MS Office, Maya, Data Visualisation, Visual Studio Code, Git, FigJam, Miro."
+        "Other skills: MS Office, Maya, Data Visualisation, Visual Studio Code, Git, FigJam, Miro.",
       ]
     },
   ]
