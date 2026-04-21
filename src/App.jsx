@@ -7,6 +7,7 @@ import Education from './components/Education'
 import Projects from './components/Projects'
 import Skills from './components/Skills'
 import Contact from './components/Contact'
+import { Analytics } from '@vercel/analytics/react'
 import './App.css'
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Education />
       <Skills />
       <Contact />
+      <Analytics />
     </div>
   )
 }
